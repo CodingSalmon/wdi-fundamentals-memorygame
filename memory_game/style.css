@@ -51,8 +51,30 @@ p{
 	font-size: 18px;
 }
 
+ul{
+	list-style-type:none;
+}
+
+div{
+	
+}
+
 img{
 	margin: 40px 8px 0 8px;
+}
+
+button{
+	background-color:#00a6b3;
+	border-color:#0d2c80;
+	border-radius:5px;
+	color:white;
+	font-family: "Raleway", sans-serif;
+	font-size:18px;
+	font-weight:600;
+	letter-spacing:1px;
+	line-height:26px;
+	width:150px;
+	margin:20px 0 5px 0;
 }
 
 footer{
